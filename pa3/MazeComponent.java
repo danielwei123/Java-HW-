@@ -1,8 +1,3 @@
-//Name: Chenghao Wei
-//USC NetID: chenghaw
-//CS 455 PA3
-//Spring 2018
-
 import java.awt.Color;
 import java.awt.Graphics;
 import java.awt.Graphics2D;
