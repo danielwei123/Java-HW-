@@ -1,8 +1,3 @@
-//Name: Chenghao Wei
-//USC NetID: chenghaw
-//CS 455 PA3
-//Spring 2018
-
 import java.io.FileNotFoundException;
 import java.io.IOException;
 import javax.swing.JFrame;
